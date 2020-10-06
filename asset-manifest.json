@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/testio-deployed/static/css/main.36c4e667.chunk.css",
+    "main.js": "/testio-deployed/static/js/main.3b424855.chunk.js",
+    "main.js.map": "/testio-deployed/static/js/main.3b424855.chunk.js.map",
+    "runtime-main.js": "/testio-deployed/static/js/runtime-main.46e57437.js",
+    "runtime-main.js.map": "/testio-deployed/static/js/runtime-main.46e57437.js.map",
+    "static/js/2.531efcd1.chunk.js": "/testio-deployed/static/js/2.531efcd1.chunk.js",
+    "static/js/2.531efcd1.chunk.js.map": "/testio-deployed/static/js/2.531efcd1.chunk.js.map",
+    "index.html": "/testio-deployed/index.html",
+    "precache-manifest.4506481d8471ed70ab2746f4d8b8244a.js": "/testio-deployed/precache-manifest.4506481d8471ed70ab2746f4d8b8244a.js",
+    "service-worker.js": "/testio-deployed/service-worker.js",
+    "static/css/main.36c4e667.chunk.css.map": "/testio-deployed/static/css/main.36c4e667.chunk.css.map",
+    "static/js/2.531efcd1.chunk.js.LICENSE.txt": "/testio-deployed/static/js/2.531efcd1.chunk.js.LICENSE.txt",
+    "static/media/404-yoda.png": "/testio-deployed/static/media/404-yoda.6a348e72.png",
+    "static/media/style.css": "/testio-deployed/static/media/user-icon.15aae2ab.svg",
+    "static/media/doors-icon.f6ca0908.svg": "/testio-deployed/static/media/doors-icon.f6ca0908.svg",
+    "static/media/logo-testio-small.d1ea3cf7.svg": "/testio-deployed/static/media/logo-testio-small.d1ea3cf7.svg",
+    "static/media/server-loading-icon.ff88ec86.svg": "/testio-deployed/static/media/server-loading-icon.ff88ec86.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46e57437.js",
+    "static/js/2.531efcd1.chunk.js",
+    "static/css/main.36c4e667.chunk.css",
+    "static/js/main.3b424855.chunk.js"
+  ]
+}
