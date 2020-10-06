@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/testio-deployed/precache-manifest.4506481d8471ed70ab2746f4d8b8244a.js"
+  "/testio-deployed/precache-manifest.276711146ae895782b498325d5dc1cff.js"
 );
 
 self.addEventListener('message', (event) => {
